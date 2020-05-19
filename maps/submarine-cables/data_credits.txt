@@ -1,0 +1,5 @@
+Submarine Cables GeoJSON (CC BY-NC-SA 3.0) from
+    https://github.com/telegeography/www.submarinecablemap.com
+
+world.geojson (Public Domain) from
+    https://www.naturalearthdata.com/

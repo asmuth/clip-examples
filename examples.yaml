@@ -10,6 +10,7 @@
 - section: Maps
   files:
     - file: maps/gulf-of-mexico
+    - file: maps/submarine-cables
 
 - section: Charts
   files:
