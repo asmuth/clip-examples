@@ -1,5 +1,5 @@
 #!/bin/bash
-set -ue
+#set -ue
 cd "$(dirname "$0")"
 
 find . -name "*.clp" | while read file; do
